@@ -67,7 +67,12 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
-
+  {
+    titre: "Etudier avec envie",
+    categorie: "Études",
+    texte: "Prenez conscience que travailler n'est pas une mauvaise chose.",
+    auteur: "El Abed Elyes"
+  },
   // ===== FIN DE VOS FICHES =====
 
 ];
